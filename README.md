@@ -7,6 +7,10 @@ API. You can learn how to iterate through characteristics of all the
 cameras attached to the device, display a camera preview, and take
 pictures.
 
+Modified By Ahmed Mahir Tazwar
+---------------------------------
+As this is an open source code, So I modified it(https://github.com/googlesamples/android-Camera2Basic) in a way so that people can use front camera too. Though auto foucs will not be possible in case of front camera. 
+
 Introduction
 ------------
 
